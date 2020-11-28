@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    font-family: 'DM Sans', sans-serif;
+    color:#676767;
+}
+    button{
+        font-size: 1.5em;
+        border: 0;
+        padding: .5em 1em;
+        border-radius: 10px;
+        cursor: pointer;
+        font-family: 'DM Sans', sans-serif;
+        background: #6b6bff;
+        color: white;
+        box-shadow: 1px 5px 2px rgba(0,0,0,.1);
+    }

@@ -1,0 +1,38 @@
+
+.signIn {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid #e8e8e8;
+    padding: 3em 1em;
+    min-width: 500px;
+    min-height: 300px;
+    border-radius: 30px;
+    box-shadow: 1px 5px 2px rgba(0,0,0,.1);
+    color:#676767;
+}
+    .input{
+        font-size: 1.2em;
+        padding: .8em;
+        border: 0;
+        width: 80%;
+        border-radius: 10px;
+        margin: .5em 0;
+        background: #e8f0fe;
+        font-family: 'DM Sans', sans-serif;
+    }
+
+    .button{
+        font-size: 1.3em;
+        border: 0;
+        padding: .5em 1em;
+        border-radius: 10px;
+        margin-top: 1em;
+        cursor: pointer;
+        font-family: 'DM Sans', sans-serif;
+        box-shadow: 1px 5px 2px rgba(0,0,0,.1);
+        background:#242526;
+        color: white;
+    }
