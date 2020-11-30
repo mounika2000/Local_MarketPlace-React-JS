@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Local-Marketplace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Local Marketplace is a single platform focussed on empowering local communities and art forms.  This equips Indian travelers with a variety of local gems to shop at, providing them with a variety of comprehensive choices. 
+Customers can log in and check places based on location, trusted users can also autonomously add locations not present on the website. Thus user-generated content helps gather information.
 
-## Available Scripts
+## Link to the website
 
-In the project directory, you can run:
+Run the app using the [Link](https://airbnb-clone-7a531.web.app/) to view it in the browser.
 
-### `npm start`
+Reload the page in case the info is not visible.
+Fill in the form to see the place you added visible on home page.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technology Used
+* JavaScript
+* React JS
+* Firebase Database
+* HTML & CSS
+* NPM
+* Firebase Hosting
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Project Features
+* Check the website as a guest user or register and sign in to look through your saved locations.
+* Search results based on location.
+* Add a new event by filling in the form.
+* Dynamic web application 
+* Select Dates and time to visit.
+* Users can add places to visit based on their opinion and review.
+* Host the website so it is accessible
 
-### `npm test`
+## Motivation
+The following ideas have been kept in mind while developing the project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* First and foremost, only qualified shopping centers and popular, old markets are visible in common google search.  
+* The main focus of this project is to create a single to look at all events happening in the city.   
+* Gathering this information and assembling would be a tedious task. Thus customers who have visited the events/ or people who know the events are happening from other sources or event organizers themselves can add the details about the same.  
+* Events happening locally in an area are not well known, not available together at a single place to read and review them.  
+* This application would be especially useful for tourists and short term visitors who do not have much idea about the local markets.  
+* Most tourist websites only show the top 5 or top 10 best monuments/ markets to visit in the area, this application aims to show all interesting events happening there which are voted and added by customers themselves.   
+* Local Marketplace would act as a one stop destination for all types of markets, events, plays,  concerts, fairs, bazaars, exhibitions, expos, sports and so on.  
+* These features could be searched based on locations.  
+* All events displayed would also include average customer rating and description of the event.  
+* The search results displayed could be narrowed down to our choice based on the filter selected.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future Scope
+* Include prices of locations/ markets if any.
+* Fully functional review and rating system.
+* Email/ push notifications about upcoming events.
+* A complete ticket booking system in case of exhibitions.
+* Filter which enables us to see locations within a given radius, like 5km
+* Offer online hotel reservation.
+* Comparison based interface for similar locations.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Images
+Sign in and Sign Up
+![image](https://user-images.githubusercontent.com/46564084/100592579-4f27ab00-331d-11eb-9c2d-54f0871d5e4a.png) 
+Home page, click on Explore More button to check out more places
+![image](https://user-images.githubusercontent.com/46564084/100593678-ae39ef80-331e-11eb-94ef-f6b33913b1dc.png)
+Click on Add places to add a new location, it would be visible on the home page
+![image](https://user-images.githubusercontent.com/46564084/100594206-610a4d80-331f-11eb-92ea-11eb8cbc0a1e.png)
+Search page, you can check for a specific location
+![image](https://user-images.githubusercontent.com/46564084/100593835-e93c2300-331e-11eb-9704-07b8c5dc1642.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
