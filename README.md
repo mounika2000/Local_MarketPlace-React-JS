@@ -1,6 +1,6 @@
 # Local-Marketplace
 
-Local Marketplace is a single platform focussed on empowering local communities and art forms.  This equips Indian travelers with a variety of local gems to shop at, providing them with a variety of comprehensive choices. 
+Local Marketplace is a single platform focused on empowering local communities and art forms.  This equips Indian travelers with a variety of local gems to shop at, providing them with a variety of comprehensive choices. 
 Customers can log in and check places based on location, trusted users can also autonomously add locations not present on the website. Thus user-generated content helps gather information.
 
 ## Link to the website
