@@ -5,8 +5,8 @@ Customers can log in and check places based on location, trusted users can also 
 
 ## Link to the website
 
-Run the app using the [Link](https://airbnb-clone-7a531.web.app/) to view it in the browser.
-Username: user123 Password: user123
+Run the app using the [Link](https://airbnb-clone-7a531.web.app/) to view it in the browser. <br>
+Username: user123 Password: user123 <br>
 These details have been provided only for demo purposes, please do not misuse them.
 
 Reload the page in case the info is not visible.
